@@ -1,6 +1,6 @@
 # Community Member Procedure For Reporting Code of Conduct Incidents
 
-**If you believe someone is in physical danger, including from themselves**, please contact the appropriate crisis number, non-emergency number, or police number. The PSF is not equipped to handle emergency situations. If you are in a PSF-sponsored conference or meeting, you can consult with a volunteer or staff member to help find an appropriate number.
+**If you believe someone is in physical danger, including from themselves**, the most important thing is to get that person help. Please contact the appropriate crisis number, non-emergency number, or police number. If you are in a PSF-sponsored conference or meeting, you can consult with a volunteer or staff member to help find an appropriate number.
 
 If you believe someone has violated the [PSF Code of Conduct](https://www.python.org/psf/codeofconduct/), we encourage you to report it. If you are unsure whether the incident is a violation, or whether the space where it happened is covered by the Code of Conduct, we encourage you to still report it. We are fine with receiving reports where we decide to take no action for the sake of creating a safer space.
 
@@ -58,7 +58,7 @@ When you make a report to an incident responder, they will gather information ab
 
 After an incident responder takes the report, they will immediately consult with the Code of Conduct Working Group, unless there is a conflict of interest, in which case any non-interested parties will be contacted. 
 
-If the incident is ongoing and needs to be immediately addressed, any lead incident responder may take appropriate action to ensure the safety of everyone involved.
+If the incident is ongoing and needs to be immediately addressed, any lead incident responder may take appropriate action to ensure the safety of everyone involved. If the situation requires it, this may take the form of a referral to an appropriate non-PSF agency, including the local police. The PSF is not equipped to handle emergency situations.
 
 If the incident is less urgent, the report will be discussed by the Code of Conduct Working Group will meet to determine an appropriate response. Examples of possible incident responses are outlined in the PSF [Procedure For Incident Response]().
 
