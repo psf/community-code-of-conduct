@@ -106,8 +106,9 @@ This Code of Conduct applies to the following people online spaces:
  * All other [mailing lists hosted on python.org](https://mail.python.org/mailman/listinfo)
  * Python Software Foundation Zulip chat server
  * Python Software Foundation hosted Discourse server [discuss.python.org](https://discuss.python.org/)
- * Code repositories, issue trackers, and pull requests made against the [Python GitHub organization](https://github.com/python/)
+ * Code repositories, issue trackers, and pull requests made against any Python Software Foundation controlled GitHub organization.
  * The python.org mercurial server [hg.python.org](https://hg.python.org/)
+ * Any other online space administered by the Python Software Foundation
 
 This Code of Conduct applies to the following people in official Python Software Foundation online spaces:
 
