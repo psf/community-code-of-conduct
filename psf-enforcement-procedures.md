@@ -1,4 +1,4 @@
-This document summarizes the procedures the Python Software Foundation Code of Conduct work group uses to enforce the Code of Conduct.
+This document summarizes the procedures of the Python Software Foundation Code of Conduct work group uses to enforce the Code of Conduct.
 
 # Summary of processes
 
@@ -45,13 +45,13 @@ Anyone who has a conflict of interest will remove themselves from the discussion
 
 ## Impact
 
- * *Did this incident occur in a private conversation or in a public space?* Incidents that all community members can see will have more negative impact.
+ * *Did this incident occur in a private conversation or in a public space?* Incidents that all community members can see will have a more negative impact.
  * *Does this behavior negatively impact a marginalized group in our community?* Is the reporter a person from a marginalized group in our community? How is the reporter being negatively impacted by the reported person's behavior? Are members of the marginalized group likely to disengage with the community if no action was taken on this report?
  * *Does this incident involve a community leader?* Community members often look up to community leaders to set the standard of acceptable behavior.
 
 ## Risk
 
- * *Does this incident include sexual harrasment?*
+ * *Does this incident include sexual harassment?*
  * *Does this pose a safety risk?* Does the behavior put a person's physical safety at risk? Will this incident severely negatively impact someone's mental health?
  * *Is there a risk of this behavior being repeated?* Does the reported person understand why their behavior was inappropriate? Is there an established pattern of behavior from past reports?
 
@@ -69,7 +69,7 @@ What follows are examples of possible behavioral modification plans for incident
  * Requiring that the reported person not join specific communication channels
  * Removing the reported person from administrator or moderator rights to community infrastructure
  * Removing a volunteer from their duties and responsibilities
- * Removing a person from leadership of relevant organizations
+ * Removing a person from the leadership of relevant organizations
  * Removing a person from membership of relevant organizations
 
 # Propose consequences
@@ -114,13 +114,13 @@ If the reported person provides additional context, the Python Software Foundati
 
 # Follow up with the reporter
 
-A person who makes a report should receive a follow up email stating what action was taken in response to the report. If the work group decided no response was needed, they should provide an email explaining why it was not a Code of Conduct violation. Reports that are not made in good faith (such as "reverse sexism" or "reverse racism") may receive no response.
+A person who makes a report should receive a follow-up email stating what action was taken in response to the report. If the work group decided no response was needed, they should provide an email explaining why it was not a Code of Conduct violation. Reports that are not made in good faith (such as "reverse sexism" or "reverse racism") may receive no response.
 
-The follow up email should be sent no later than one week after the receipt of the report. If deliberation or follow up with the reported person takes longer than one week, the work group should send a status email to the reporter.
+The follow-up email should be sent no later than one week after the receipt of the report. If deliberation or follow-up with the reported person takes longer than one week, the work group should send a status email to the reporter.
 
 # Documentation and Privacy Policies
 
-Depending on how the Code of Conduct committee is set up, there may be different places where information about Code of Conduct reports may be accessible:
+Depending on how the Code of Conduct committee is set up, there may be different places where information about the Code of Conduct reports may be accessible:
 
  * Personal email of Code of Conduct committee members
  * Archives of committee mailing lists
@@ -131,13 +131,13 @@ In all cases, documents and notes should only be available to committee members 
 
 ## Committee shared email address
 
-Code of Conduct committees need to be able to be reached by one email address. It is recommended that the committee use an alias which forwards email to individual members.
+Code of Conduct committees need to be able to be reached by one email address. It is recommended that the committee use an alias that forwards email to individual members.
 
 Using a mailing list is not recommended. This is because mailing lists typically archive all emails. This means new committee members gain access to all past archives. They can deliberately or accidentally see past reports where they have a conflict of interest. In order to prevent potential conflicts of interest, it is recommended to not have a mailing list archive.
 
 ## Committee online discussion
 
-A Code of Conduct committee may have an online, real-time discussion forum, such as Slack, Zulip, or IRC. If the online chat platform allows, it is recommended to set the committee channel to have past history not be available to new committee members who join the channel.
+A Code of Conduct committee may have an online, real-time discussion forum, such as Slack, Zulip, or IRC. If the online chat platform allows, it is recommended to set the committee channel to have a past history not be available to new committee members who join the channel.
 
 When a report comes in and a discussion needs to happen in an online space, care needs to be taken to avoid conflicts of interest. In the committee chat channel, state 'We have a report that involves [REPORTED PERSON]'. Do not say who was the reporter or who were witnesses if the report was sent to an individual committee member. Ask which committee members do not have a conflict of interest. Add those committee members to a group discussion, separate from the committee channel. If a committee member does not respond, do not add them to the new group discussion. If a committee member finds they have a conflict of interest because of who reported the incident or who witnessed it, they should recluse themselves from the discussion.
 
@@ -154,15 +154,15 @@ The Code of Conduct committee should keep two types of shared documents:
 
 ### Status Spreadsheet
 
-The spreadsheet with status of open and closed cases should have the following format:
+The spreadsheet with the status of open and closed cases should have the following format:
 
 | Safety risk?  | Risk of repeating? | Status | Code Name  | Date & Time  | Actions needed | Resolution |
 |---|---|---|---|---|---|---|
-| Yes | Yes | Ongoing | home shelf  | 07/07 8:30am and 07/08 12:30pm | Team on the lookout for reported person | Temporary ban for the remainder of the event, reevaluate attendance for next year |
-| No | Maybe | Resolved | stunned bulb | 07/07 8:00pm | - | Verbal warning |
+| Yes | Yes | Ongoing | home shelf  | 07/07 8:30 am and 07/08 12:30 pm | Team on the lookout for reported person | Temporary ban for the remainder of the event, reevaluate attendance for next year |
+| No | Maybe | Resolved | stunned bulb | 07/07 8:00 pm | - | Verbal warning |
 |   |   |   |   |   |   |   |
 
-Keep resolutions and notes vague enough that enforcement team members with a conflict of interest don't know the details of the incident. Use gender neutral language when describing the reported person in the spreadsheet.
+Keep resolutions and notes vague enough that enforcement team members with a conflict of interest don't know the details of the incident. Use gender-neutral language when describing the reported person in the spreadsheet.
 
 ### Report Documentation
 
@@ -170,7 +170,7 @@ Each report should be assigned a code name, using an [online random phrase gener
 
 Report documents should include:
 
- * A summary of a verbal report, or the text of an emailed report. Use neutral, non-judgmental words to describe the behavior. Where possible, separate out the behavior of the reported person and the impact on the reporter.
+ * A summary of a verbal report, or the text of an emailed report. Use neutral, non-judgmental words to describe the behavior. Where possible, separate the behavior of the reported person and the impact on the reporter.
  * A summary of committee discussions, including whether the report is in scope
  * Proposed behavioral modification plan
  * Proposed consequences for the reported behavior
@@ -186,7 +186,7 @@ There are some common privacy pitfalls to online tools like Google Docs. Make su
 
 Another common issue is that when a folder is shared with the whole committee, even if a person doesn't have edit or view access to an individual report, they can still see the document's title. This can give information away, such as the person who made the report. Some communities use initials in the report title instead. That can still reveal information, and it makes it hard to talk about report status in public spaces (such as an event). The committee may want to assign a code name to each report, and reference that name in the report title and status spreadsheet. You can use an [online random phrase generator](http://watchout4snakes.com/wo4snakes/Random/RandomPhrase) to create the code name.
 
-When on-boarding new committee members, they should be provided with a list of names of people who have been reported in a Code of Conduct incident. The new committee member should state whether they have any conflicts of interest with reviewing documentation for those cases. If not, they will be given edit access to the report documents.
+When onboarding new committee members, they should be provided with a list of names of people who have been reported in a Code of Conduct incident. The new committee member should state whether they have any conflicts of interest in reviewing documentation for those cases. If not, they will be given edit access to the report documents.
 
 # Changes to Code of Conduct
 
@@ -222,5 +222,5 @@ Thomas Wouters
 
  * The [PyCon Code of Conduct](https://us.pycon.org/2018/about/code-of-conduct/) is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
  * Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)" is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
- * Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/) provided the impact vs risk assessment framework, which is licensed under a [Creative Commons Attribution Share-Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/) by Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/)
+ * Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/) provided the impact vs risk assessment framework, which is licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/) by Audrey Eschright of [Safety First PDX](http://safetyfirstpdx.org/)
  * [Code of Conduct template](https://github.com/sagesharp/code-of-conduct-template/) was created by [Otter Tech](https://otter.technology/code-of-conduct-training) and is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/)
