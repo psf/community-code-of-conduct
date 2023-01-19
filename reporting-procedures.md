@@ -21,7 +21,7 @@ In the event of a [conflict of interest](), you may directly contact any of the 
       * Python Software Foundation - General Counsel
       * <van@python.org>
 
-You can also contact any member of the Python Software Foundation [Board of Directors]() to make a report. Certain gatherings and online fora, will have additional lead responders for the purpose of helping address incidents in particular PSF-affiliated spaces. 
+You can also contact any member of the Python Software Foundation [Board of Directors](https://www.python.org/psf/board/#id1) to make a report. Certain gatherings and online fora will have additional lead responders for the purpose of helping address incidents in particular PSF-affiliated spaces. 
 
 ## Report Data
 
