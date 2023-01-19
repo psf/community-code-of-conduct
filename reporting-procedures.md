@@ -12,7 +12,7 @@ If you find that you need to make a report, and you cannot find the appropriate 
 
 The best way to contact the PSF Code of Conduct working group is by email at **<conduct@python.org>**. The members of the Code of Conduct Working Group who monitor this alias is listed at [LINK](). 
 
-In the event of a [conflict of interest](), you may directly contact any of the lead incident responders:
+In the event of a [conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest), you may directly contact any of the lead incident responders:
 
   * Ewa Jodlowska
       * Python Software Foundation - Executive Director
