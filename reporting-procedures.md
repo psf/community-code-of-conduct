@@ -10,22 +10,16 @@ If you find that you need to make a report, and you cannot find the appropriate 
 
 *General PSF reporting procedure:*
 
-The best way to contact the PSF Code of Conduct working group is by email at **<conduct@python.org>**. The members of the Code of Conduct Working Group who monitor this alias is listed at [LINK](). 
+The best way to contact the PSF Code of Conduct working group is by email at **<conduct@python.org>**. The members of the Code of Conduct Working Group who monitor this alias is listed at [PSF Code of Conduct Workgroup Charter](https://wiki.python.org/psf/ConductWG/Charter#List_of_Participants.2FWho_we_are). 
 
 In the event of a [conflict of interest](), you may directly contact any of the lead incident responders:
 
-  * Ewa Jodlowska
+  * Deb Nicholson
       * Python Software Foundation - Executive Director
-      * <ewa@python.org>
-  * Naomi Ceder
-      * Python Software Foundation - Chair of the Board of Directors
-      * <chair@python.org>      
+      * <deb@python.org>
   * Van Lindberg
       * Python Software Foundation - General Counsel
       * <van@python.org>
-  * Christopher Neugebauer
-      * Python Software Foundation Board, liason to Code of Conduct Committee
-      * <chrisjrn@python.org>
 
 You can also contact any member of the Python Software Foundation [Board of Directors]() to make a report. Certain gatherings and online fora, will have additional lead responders for the purpose of helping address incidents in particular PSF-affiliated spaces. 
 
