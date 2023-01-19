@@ -54,7 +54,7 @@ No weapons are allowed at Python Software Foundation events. Weapons include but
 
 ### Consequences
 
-If a participant engages in behavior that violates this code of conduct, the Python community Code of Conduct team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets. The full list of consequences for inappropriate behavior is listed in [ENFORCEMENT PROCEDURES].
+If a participant engages in behavior that violates this code of conduct, the Python community Code of Conduct team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets. The full list of consequences for inappropriate behavior is listed in [enforcement procedures](psf-enforcement-procedures.md).
 
 Thank you for helping make this a welcoming, friendly community for everyone.
 
@@ -134,9 +134,9 @@ If you believe that someone is violating the code of conduct, or have any other 
 
 ## Procedure for Handling Incidents
 
-[REPORTER PROCEDURES]
+[REPORTER PROCEDURES](reporting-procedures.md)
 
-[ENFORCEMENT PROCEDURES] 
+[ENFORCEMENT PROCEDURES](psf-enforcement-procedures.md)
 
 ## License
 
