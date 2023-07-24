@@ -17,9 +17,6 @@ In the event of a [conflict of interest](https://en.wikipedia.org/wiki/Conflict_
   * Deb Nicholson
       * Python Software Foundation - Executive Director
       * <deb@python.org>
-  * Van Lindberg
-      * Python Software Foundation - General Counsel
-      * <van@python.org>
 
 You can also contact any member of the Python Software Foundation [Board of Directors](https://www.python.org/psf/board/#id1) to make a report. Certain gatherings and online fora will have additional lead responders for the purpose of helping address incidents in particular PSF-affiliated spaces. 
 
