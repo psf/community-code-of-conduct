@@ -15,8 +15,17 @@ The best way to contact the PSF Code of Conduct working group is by email at **<
 In the event of a [conflict of interest](https://en.wikipedia.org/wiki/Conflict_of_interest), you may directly contact any of the lead incident responders:
 
   * Deb Nicholson
-      * Python Software Foundation - Executive Director
-      * <deb@python.org>
+    * Python Software Foundation - Executive Director
+    * <deb@python.org>
+  * Łukasz Langa
+    * Python Software Foundation - Code of Conduct WG Chair
+    * <lukasz@python.org>
+  * Tania Allard
+    * Python Software Foundation Director
+    * <taniar.allard@gmail.com>
+  * Drew Winstel
+    * Python Code of Conduct WG Member
+    * <drew@defna.org>
 
 You can also contact any member of the Python Software Foundation [Board of Directors](https://www.python.org/psf/board/#id1) to make a report. Certain gatherings and online fora will have additional lead responders for the purpose of helping address incidents in particular PSF-affiliated spaces. 
 
