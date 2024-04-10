@@ -1,2 +1,3 @@
-# community-code-of-conduct
-The Python Software Foundation Community Code of Conduct
+> [!IMPORTANT]
+> This repository is retired. Please see https://policies.python.org/
+> for the home of all public Python Software Foundation policies.
